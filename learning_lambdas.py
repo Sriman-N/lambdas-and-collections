@@ -11,3 +11,5 @@ domain = [1, 2, 3, 4, 5]
 
 # f(x) = x * 2
 our_range = map(lambda num: num * 2, domain)
+
+print("hello")
