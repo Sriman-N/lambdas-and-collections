@@ -5,7 +5,7 @@ square(2) # => 4
 
 square_lambda = lambda num: num * num
 
-assert square(4) == square_lambda(4)
+assert square(4) == square_lambda(4) # won't give an error
 
 domain = [1, 2, 3, 4, 5]
 
